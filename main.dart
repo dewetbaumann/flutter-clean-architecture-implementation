@@ -1,5 +1,5 @@
+import 'package:facebook_clon/presentation/utils/routes.dart';
 import 'package:flutter/material.dart';
-import 'package:teste/presentation/utils/routes.dart';
 
 void main() {
   runApp(const MyApp());
